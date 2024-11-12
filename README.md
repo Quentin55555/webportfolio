@@ -1,6 +1,10 @@
 # WebPortfolio de Quentin
 
-[![Firebase Logo](https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg)](https://firebase.google.com/)
+<p align="center">
+  <a href="https://firebase.google.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" alt="Firebase Logo" width="150">
+  </a>
+</p>
 
 Bienvenue dans le dépôt du WebPortfolio de **Quentin** ! Ce projet est un portfolio en ligne qui met en avant mon parcours, mes compétences, mes projets et mes certifications. Hébergé avec **Firebase**, ce site est une plateforme interactive et moderne pour explorer mes réalisations professionnelles et académiques.
 
@@ -17,8 +21,5 @@ Ce WebPortfolio a été conçu pour offrir une présentation complète de mon pa
 - **Firebase Hosting** : pour l’hébergement sécurisé et rapide.
 - **Responsive Design** : s'adapte aux différents appareils (ordinateur, tablette, mobile).
 
-## 📜 Fonctionnalités
-- **Navigation Interactive** : un menu de navigation pour explorer les différentes sections.
-- **Accordéons** pour chaque section, permettant de révéler ou masquer les informations.
-- **Formulaire de Contact** : pour faciliter les échanges professionnels.
-
+###
+<p align="center" style="color:red; font-weight: bold;">🚧 Ce site est actuellement en cours de création. Certaines fonctionnalités peuvent être indisponibles. 🚧</p>
