@@ -21,15 +21,9 @@ Ce WebPortfolio a été conçu pour offrir une présentation complète de mon pa
 - **Firebase Hosting** : pour l’hébergement sécurisé et rapide.
 - **Responsive Design** : s'adapte aux différents appareils (ordinateur, tablette, mobile).
 
-## 📋 Installation Locale
-Pour cloner et exécuter ce projet en local, suivez ces étapes :
-
-1. Clonez le dépôt :
-   ```bash
-   git clone https://github.com/Quentin55555/webportfolio-quentin.git
-
-2. Travailer sur le dépot :
-   ```bash
-    cd webportfolio-quentin
-
 ## 🚧 Attention. Ce site est actuellement en cours de création. 🚧
+
+## License et restrictions d'utilisation
+
+Le contenu de ce dépôt est **consultable uniquement** et ne peut être modifié, distribué, ou réutilisé sans autorisation. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+
