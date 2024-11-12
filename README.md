@@ -25,5 +25,6 @@ Ce WebPortfolio a été conçu pour offrir une présentation complète de mon pa
 
 ## License et restrictions d'utilisation
 
-Le contenu de ce dépôt est **consultable uniquement** et ne peut être modifié, distribué, ou réutilisé sans autorisation. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+Le contenu de ce dépôt est **consultable uniquement** et ne peut être modifié, distribué, ou réutilisé sans autorisation. 
+Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
