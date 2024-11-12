@@ -27,6 +27,9 @@ Pour cloner et exécuter ce projet en local, suivez ces étapes :
 1. Clonez le dépôt :
    ```bash
    git clone https://github.com/Quentin55555/webportfolio-quentin.git
-   cd webportfolio-quentin
+
+2. Travailer sur le dépot :
+   ```bash
+    cd webportfolio-quentin
 
 ## 🚧 Attention. Ce site est actuellement en cours de création. 🚧
