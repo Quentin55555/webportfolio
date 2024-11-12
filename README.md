@@ -13,7 +13,7 @@ Ce WebPortfolio a été conçu pour offrir une présentation complète de mon pa
 - **Contact** : pour me contacter directement.
 
 ## 🚀 Technologies Utilisées
-- **HTML, CSS, JavaScript** : pour la structure, le design et l’interactivité.
+- **HTML, CSS** : pour la structure, le design et l’interactivité.
 - **Firebase Hosting** : pour l’hébergement sécurisé et rapide.
 - **Responsive Design** : s'adapte aux différents appareils (ordinateur, tablette, mobile).
 
@@ -22,10 +22,3 @@ Ce WebPortfolio a été conçu pour offrir une présentation complète de mon pa
 - **Accordéons** pour chaque section, permettant de révéler ou masquer les informations.
 - **Formulaire de Contact** : pour faciliter les échanges professionnels.
 
-## 📋 Installation Locale
-Pour cloner et exécuter ce projet en local, suivez ces étapes :
-
-1. Clonez le dépôt :
-   ```bash
-   git clone https://github.com/ton-username/webportfolio-quentin.git
-   cd webportfolio-quentin
